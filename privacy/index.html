@@ -66,11 +66,13 @@
 <ul>
 <li>Supabase, Inc. — authentication, database, file storage and server functions. Holds all account, child-profile, story and usage data. Our project is hosted in the United States (AWS us-east-1).</li>
 <li>Anthropic, PBC — writes the story text with AI. Receives your answers to the order questions, the change requests you send and your child's age band.</li>
+<li>Google (Google Flow) — draws the hero, pictures and animations of a personal book with AI. Receives picture and animation instructions written from the book's story (descriptions of scenes and characters).</li>
+<li>ElevenLabs, Inc. — reads a personal book aloud and makes its music with AI. Receives the book's text for the narration.</li>
 <li>QuickDesign — draws the story pictures with AI. Receives scene descriptions made from the story, not the text you wrote.</li>
 <li>RevenueCat, Inc. — subscription status and purchase events. Identifies you by our internal user ID, not by your name or email.</li>
 <li>Apple (App Store) and Google (Google Play) — sell and bill subscriptions and handle refunds under their own privacy policies.</li>
 <li>Apple (Sign in with Apple) and Google (Google Sign-In) — only if you choose to sign in with them.</li>
-<li>Apple Push Notification service and Google Firebase Cloud Messaging — deliver push notifications. They receive the device token and the notification text.</li>
+<li>Apple Push Notification service and Google Firebase Cloud Messaging — deliver push notifications. They receive the device token and the notification text. A notification about a book also carries the book's internal ID.</li>
 <li>Functional Software, Inc. (Sentry) — error reports, with only the fields in section 2.2. Our Sentry organisation is in the United States data region.</li>
 <li>Resend — sends sign-in and verification emails. Receives your email address and the email content.</li>
 </ul>
@@ -80,7 +82,7 @@
 <h2>7. How long we keep data</h2>
 <p>Most of your information is kept until you delete your account. One type of data is deleted automatically, without you asking:</p>
 <ul>
-<li>Your answers to the order questions and your change requests are deleted automatically 90 days after the last production step for that book finished (for example the draft, a revised draft or the finished book); if no step ever finished, the period starts when the order was placed. The same rule applies whether the book is finished, closed or cancelled. The only exception is a production step that is waiting in line or running at that moment: because that step may need your answers, they stay until it finishes, and the period then starts again. Only your answers and change requests are deleted; your book, its pictures and its PDF files stay.</li>
+<li>Your answers to the order questions and your change requests are deleted automatically 90 days after the last text step for that book finished (writing the first draft, or answering a change request); if no text step ever finished, the period starts when the order was placed. Approving the draft or making the finished book's pages, narration and music does not restart the clock. The same rule applies whether the book is finished, closed or cancelled. The only exception is a production step that is waiting in line or running at that moment: because that step may need your answers, they stay until it finishes. Only your answers and change requests are deleted; your book, its pictures and its PDF files stay.</li>
 <li>Account information, child profiles, stories, pictures and PDF files: until you delete them or delete your account.</li>
 <li>Earlier versions of a story's text you edited: only the last 20 edits for each story are kept; older ones are deleted automatically. They are deleted with the story or your account, and only you can see them.</li>
 <li>Feelings answers and reading days: kept on our servers linked to the child profile, and shown only to you on the Profile screen. They are deleted when you delete the child profile or your account.</li>
