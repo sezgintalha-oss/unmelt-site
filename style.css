@@ -11,3 +11,5 @@ h3{font-size:1.1rem}
 a{color:var(--link)}
 li{margin:.3rem 0}
 footer{border-top:1px solid var(--line);padding-top:1rem;padding-bottom:2rem;color:var(--muted);font-size:.9rem}
+.dil{margin:0;text-align:right;font-size:.9rem}
+code{font-size:.9em}
