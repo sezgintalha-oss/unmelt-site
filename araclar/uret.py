@@ -32,7 +32,7 @@ ETIKET = {
     },
     "tr": {
         "home": "Ana sayfa", "privacy": "Gizlilik Politikası",
-        "terms": "Kullanım Koşulları", "delete": "Hesabını sil",
+        "terms": "Kullanım Koşulları", "delete": "Hesabınızı silin",
         "other": "English",
     },
 }
