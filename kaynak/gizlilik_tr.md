@@ -195,7 +195,7 @@ Birleşik Krallık GDPR'ı):
 ## 4. Bilgileri neden kullanıyoruz
 
 - Çocuğunuzun masal metnini, resimlerini, sayfa animasyonlarını, seslendirmesini,
-  arka plan müziğini ve istediğinizde yazdırılabilir PDF dosyasını oluşturmak için. PDF dosyaları uygulamanın bu sürümünde yok.
+  arka plan müziğini ve istediğinizde yazdırılabilir PDF dosyasını oluşturmak için; PDF uygulamanın bu sürümünde yok.
 - Masal kitaplığını, Masal Radyosu'nu, okuma ilerlemesini, favorileri ve okuma serisini çalıştırmak için
 - Bir taslağın ya da kitabın hazır olduğunu size bildirmek için (push bildirimi ve uygulama içi bildirim geçmişi)
 - Kitaplığa gönderdiğiniz kitapları inceledikten sonra yayımlamak ve
@@ -305,7 +305,7 @@ süreler sonunda otomatik olarak silinir:
   cevaplarınız ve değişiklik istekleriniz silinir; kitabınız ve resimleri kalır.
 - Hesap bilgileri, çocuk profilleri, masallar, resimler, seslendirmeler ve
   animasyonlar: siz bunları ya da hesabınızı silene kadar.
-- Yazdırılabilir PDF dosyaları: PDF dosyaları uygulamanın bu sürümünde yok. Sonraki bir sürümde eklenirse: isteğiniz üzerine oluşturulan PDF dosyası,
+- Yazdırılabilir PDF dosyaları uygulamanın bu sürümünde yok. Sonraki bir sürümde eklenirse isteğiniz üzerine oluşturulan PDF dosyası,
   oluşturulmasından ya da son indirilmesinden 30 gün sonra dosya depolamamızdan
   otomatik olarak silinir; kitabınız durduğu sürece uygulamadan istediğiniz
   zaman yeniden oluşturabilirsiniz. PDF istek kaydı kitabınızla ya da
@@ -377,8 +377,8 @@ süreler sonunda otomatik olarak silinir:
   uygulama örneğin ödeme sırasında kapanırsa kaybolmazlar. Bu kopya siparişi
   vermeden önce sunucularımıza gönderilmez. 24 saat sonra, siparişi
   verdiğinizde, çıkış yaptığınızda ya da hesabınızı sildiğinizde silinir.
-  Sipariş ettiğiniz bir kitabı iptal ederseniz o kitap için yaptığınız
-  seçimler, aynı seçimlerle yeniden başlayabilmeniz için aynı şifreli depoda en
+  Sipariş verdiğinizde o kitap için yaptığınız seçimler, kitabı iptal
+  ederseniz aynı seçimlerle yeniden başlayabilmeniz için aynı şifreli depoda en
   çok 14 gün kalır; kitap hazır olduğunda, çıkış yaptığınızda ya da hesabınızı
   sildiğinizde daha önce silinir.
 - Cihazdaki okuma sayaçları (son 400 okuma gününe kadar okuduğunuz tarihler

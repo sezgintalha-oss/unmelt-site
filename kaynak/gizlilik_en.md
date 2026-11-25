@@ -190,7 +190,7 @@ example the Turkish data protection law, KVKK, and the EU or UK GDPR):
 ## 4. Why we use information
 
 - To create your child's story text, pictures, page animations, narration,
-  background music and, when you ask for one, a print-ready PDF file. PDF files are not available in this version of the app.
+  background music and, when you ask for one, a print-ready PDF file; PDF files are not available in this version of the app.
 - To run the story library, Story Radio, reading progress, favourites and reading streak
 - To tell you that a draft or a book is ready (push notification and in-app notification history)
 - To publish books you send to the library, after review, and to share books
@@ -298,7 +298,7 @@ of data are deleted automatically after set periods:
   requests are deleted; your book and its pictures stay.
 - Account information, child profiles, stories, pictures, narration and
   animations: until you delete them or delete your account.
-- Print-ready PDF files: PDF files are not available in this version of the app. If we add them in a later version: a PDF file generated on your request is deleted
+- Print-ready PDF files are not available in this version of the app. If we add them later, a PDF file generated on your request is deleted
   automatically from our file storage 30 days after it is created or last
   downloaded; you can generate it again in the app whenever you want while your
   book exists. The PDF request record is deleted with your book or your
@@ -370,9 +370,9 @@ of data are deleted automatically after set periods:
   they are not lost if the app closes, for example during payment. This copy
   is not sent to our servers before you place the order. It is deleted after
   24 hours, when you place the order, when you sign out or when you delete your
-  account. If you cancel a book you ordered, the choices you made for it stay
-  in the same encrypted storage for up to 14 days so you can start again with
-  the same choices; they are deleted earlier when the book is ready, when you
+  account. When you place an order, the choices you made for that book are
+  kept in the same encrypted storage for up to 14 days, so that if you cancel
+  it you can start again with the same choices; they are deleted earlier when the book is ready, when you
   sign out or when you delete your account.
 - Reading counters on your device (the dates you read, for up to the last
   400 reading days, and the highest page reached in each story): kept only on
