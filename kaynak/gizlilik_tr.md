@@ -6,7 +6,7 @@ Sürüm 1.0 — Son güncelleme 2026-11-25
 
 Unmelt ("uygulama"), Türkiye'de kayıtlı bir şirket olan Mamonta Dış Ticaret
 A.Ş. ("biz") tarafından işletilir. Adres: Akyapı D:49, No:23, İkitelli OSB Mahallesi, Bedrettin Dalan Bulvarı, 34490 Başakşehir / İstanbul, Türkiye. E-posta:
-privacy@mamonta.com. Bu politikada anlatılan kişisel verilerden biz sorumluyuz.
+privacy@legal.mamonta.com. Bu politikada anlatılan kişisel verilerden biz sorumluyuz.
 
 Unmelt, ebeveynler ve yasal vasiler için bir uygulamadır. Gündelik duygular
 üzerine seslendirilmiş, animasyonlu resimli kitap masallarından oluşan bir
@@ -427,7 +427,7 @@ silebilirsiniz (Profil → Hesabımı sil). Hesabınızı silmek Apple ya da Goo
 üzerinden satın alınmış bir aboneliği iptal etmez; aboneliği mağaza hesabı
 ayarlarınızdan iptal edin. Verilerinizin bir kopyası, yazdığınız metnin erken
 silinmesi ya da başka herhangi bir talep için hesabınızdaki e-posta adresinden
-privacy@mamonta.com adresine e-posta gönderin. Ayrıca veri koruma otoritenize ya
+privacy@legal.mamonta.com adresine e-posta gönderin. Ayrıca veri koruma otoritenize ya
 da ABD'de eyaletinizin başsavcısına şikâyette bulunabilirsiniz.
 
 ## 9. Çocukların bilgileri
@@ -491,12 +491,13 @@ bu bilgilerin daha fazla toplanmasını ya da kullanılmasını durdurma
 hakkınız vardır. Uygulamada bir çocuk profilini düzenleyebilir ya da
 silebilir ve hesabınızı silebilirsiniz (madde 8). Bir kopya, silme ya da
 toplamanın durdurulması için hesabınızdaki e-posta adresinden
-privacy@mamonta.com adresine e-posta gönderin. Uygulama kullanılırken bu kayıtları durduran bir ayar yoktur:
+privacy@legal.mamonta.com adresine e-posta gönderin. Uygulama kullanılırken bu kayıtları durduran bir ayar yoktur:
 hesabı silmek hepsini durdurur, bir çocuk profilini silmek o profile bağlı
 olanları durdurur. Her adımın neleri sildiğini size söyleriz.
 
 Bir çocuğun ebeveyni olmadan bize bilgi verdiğini düşünüyorsanız
-privacy@mamonta.com adresine e-posta gönderin, bu bilgileri sileriz.
+privacy@legal.mamonta.com adresine e-posta gönderin ya da +90 554 454 80 38
+numarasını arayın, bu bilgileri sileriz.
 
 ## 10. Yapay zeka ile üretilen içerik
 
@@ -526,4 +527,5 @@ sayfanın en üstündedir.
 
 Mamonta Dış Ticaret A.Ş.
 Akyapı D:49, No:23, İkitelli OSB Mahallesi, Bedrettin Dalan Bulvarı, 34490 Başakşehir / İstanbul, Türkiye
-E-posta: privacy@mamonta.com
+E-posta: privacy@legal.mamonta.com
+Telefon: +90 554 454 80 38

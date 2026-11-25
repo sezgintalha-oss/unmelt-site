@@ -6,7 +6,7 @@ Version 1.0 — Last updated 2026-11-25
 
 Unmelt (the "app") is operated by Mamonta Dış Ticaret A.Ş. ("we", "us"), a
 company registered in Türkiye. Address: Akyapi D:49, No:23, Ikitelli OSB Mahallesi, Bedrettin Dalan Bulvari, 34490 Basaksehir, Istanbul, Türkiye. Email:
-privacy@mamonta.com. We are responsible for the personal information described
+privacy@legal.mamonta.com. We are responsible for the personal information described
 in this policy.
 
 Unmelt is an app for parents and legal guardians. It offers a library of
@@ -421,7 +421,7 @@ In the app you can edit or delete child profiles and delete your account
 (Profile → Delete my account). Deleting your account does not cancel a
 subscription bought through Apple or Google; cancel it in your store account
 settings. For a copy of your data, early deletion of the text you wrote, or
-any other request, email privacy@mamonta.com from the email address on your
+any other request, email privacy@legal.mamonta.com from the email address on your
 account. You can also complain to your data protection authority or, in the
 US, your state attorney general.
 
@@ -484,14 +484,14 @@ each type is kept is in section 7.
 As a parent you can review the information we hold about your child, have it
 deleted, and refuse further collection or use of it. In the app you can edit
 or delete a child profile and delete your account (section 8). For a copy,
-for deletion or to stop further collection, email privacy@mamonta.com from the
+for deletion or to stop further collection, email privacy@legal.mamonta.com from the
 email address on your account. The app has no setting to stop these records
 while it is used: deleting the account stops all of them, and deleting a
 child profile stops those linked to that profile. We will tell you what each
 step removes.
 
 If you believe a child has given us information without a parent, email
-privacy@mamonta.com and we will delete it.
+privacy@legal.mamonta.com or call +90 554 454 80 38 and we will delete it.
 
 ## 10. AI-generated content
 
@@ -520,4 +520,5 @@ and date are at the top of this page.
 
 Mamonta Dış Ticaret A.Ş.
 Akyapi D:49, No:23, Ikitelli OSB Mahallesi, Bedrettin Dalan Bulvari, 34490 Basaksehir, Istanbul, Türkiye
-Email: privacy@mamonta.com
+Email: privacy@legal.mamonta.com
+Phone: +90 554 454 80 38

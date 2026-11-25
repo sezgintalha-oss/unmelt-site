@@ -5,7 +5,7 @@ Version 0.3 — Last updated 2026-11-25
 ## 1. About these terms
 
 These Terms are an agreement between you and Mamonta Dış Ticaret A.Ş. ("we",
-"us"), Akyapi D:49, No:23, Ikitelli OSB Mahallesi, Bedrettin Dalan Bulvari, 34490 Basaksehir, Istanbul, Türkiye (privacy@mamonta.com), for the Unmelt app
+"us"), Akyapi D:49, No:23, Ikitelli OSB Mahallesi, Bedrettin Dalan Bulvari, 34490 Basaksehir, Istanbul, Türkiye (privacy@legal.mamonta.com), for the Unmelt app
 (the "app").
 
 By creating an account or using the app you agree to these Terms and to our
@@ -41,7 +41,7 @@ psychologist or other qualified professional. If a child is in danger, call
   or listen to stories with you or under your supervision on your device.
   Children must not create accounts.
 - Give accurate information and keep your sign-in details secure. You are
-  responsible for activity on your account. Tell us at privacy@mamonta.com if
+  responsible for activity on your account. Tell us at privacy@legal.mamonta.com if
   you think your account has been misused.
 - You can try the app in a guest session without an account. Guest sessions
   cannot buy subscriptions or order personal books.
@@ -242,4 +242,4 @@ them against you.
 
 Mamonta Dış Ticaret A.Ş.
 Akyapi D:49, No:23, Ikitelli OSB Mahallesi, Bedrettin Dalan Bulvari, 34490 Basaksehir, Istanbul, Türkiye
-Email: privacy@mamonta.com
+Email: privacy@legal.mamonta.com

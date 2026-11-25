@@ -5,7 +5,7 @@ Sürüm 0.3 — Son güncelleme 2026-11-25
 ## 1. Bu koşullar hakkında
 
 Bu Koşullar, Unmelt uygulaması ("uygulama") için sizinle Mamonta Dış Ticaret
-A.Ş. ("biz"), Akyapı D:49, No:23, İkitelli OSB Mahallesi, Bedrettin Dalan Bulvarı, 34490 Başakşehir / İstanbul, Türkiye (privacy@mamonta.com) arasında yapılan bir
+A.Ş. ("biz"), Akyapı D:49, No:23, İkitelli OSB Mahallesi, Bedrettin Dalan Bulvarı, 34490 Başakşehir / İstanbul, Türkiye (privacy@legal.mamonta.com) arasında yapılan bir
 sözleşmedir.
 
 Hesap oluşturarak ya da uygulamayı kullanarak bu Koşulları ve Gizlilik
@@ -43,7 +43,7 @@ doktora, psikoloğa ya da başka bir yetkin uzmana başvurun. Bir çocuk tehlike
   izleyebilir ya da dinleyebilir. Çocuklar hesap oluşturamaz.
 - Doğru bilgi verin ve giriş bilgilerinizi güvende tutun. Hesabınızdaki
   etkinlikten siz sorumlusunuz. Hesabınızın kötüye kullanıldığını
-  düşünüyorsanız privacy@mamonta.com adresinden bize bildirin.
+  düşünüyorsanız privacy@legal.mamonta.com adresinden bize bildirin.
 - Uygulamayı hesap açmadan misafir oturumunda deneyebilirsiniz. Misafir
   oturumlarında abonelik satın alınamaz ve kişiye özel kitap sipariş edilemez.
 
@@ -259,4 +259,4 @@ uygulayabilir.
 
 Mamonta Dış Ticaret A.Ş.
 Akyapı D:49, No:23, İkitelli OSB Mahallesi, Bedrettin Dalan Bulvarı, 34490 Başakşehir / İstanbul, Türkiye
-E-posta: privacy@mamonta.com
+E-posta: privacy@legal.mamonta.com
