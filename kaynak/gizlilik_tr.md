@@ -1,13 +1,12 @@
 # Gizlilik Politikası
 
-Sürüm 1.0 — Son güncelleme 2026-11-21
+Sürüm 1.0 — Son güncelleme 2026-11-25
 
 ## 1. Biz kimiz ve bu politika neyi kapsar
 
 Unmelt ("uygulama"), Türkiye'de kayıtlı bir şirket olan Mamonta Dış Ticaret
-A.Ş. ("biz") tarafından işletilir. Adres: Akyapı No:23 D:49, İkitelli OSB Mah.,
-Bedrettin Dalan Bulvarı, Başakşehir, İstanbul 34490, Türkiye. E-posta:
-info@hicatcher.co. Bu politikada anlatılan kişisel verilerden biz sorumluyuz.
+A.Ş. ("biz") tarafından işletilir. Adres: Akyapı D:49, No:23, İkitelli OSB Mahallesi, Bedrettin Dalan Bulvarı, 34490 Başakşehir / İstanbul, Türkiye. E-posta:
+privacy@mamonta.com. Bu politikada anlatılan kişisel verilerden biz sorumluyuz.
 
 Unmelt, ebeveynler ve yasal vasiler için bir uygulamadır. Gündelik duygular
 üzerine seslendirilmiş, animasyonlu resimli kitap masallarından oluşan bir
@@ -42,7 +41,7 @@ haklarınızın neler olduğunu açıklar.
   sorularına verdiğiniz cevaplar (bkz. madde 2.1), bir taslak hakkında
   gönderdiğiniz değişiklik istekleri ve bunlardan hazırlanan kitap (başlığı,
   metni, kahraman adı ve çizimi, resimleri, animasyonları, seslendirmesi,
-  müziği ve PDF dosyaları). Bir kitabın metni ya da kahraman adı düzenlenirse
+  müziği ve uygulamanın bunları sunduğu sürümlerde PDF dosyaları). Bir kitabın metni ya da kahraman adı düzenlenirse
   önceki sürümleri saklanır (bkz. madde 7).
 - Kitaplık kullanımı: her ücretsiz ya da abonelik döneminde hangi kitaplık
   masallarını açtığınız, en son ulaştığınız sayfa, favori olarak
@@ -196,7 +195,7 @@ Birleşik Krallık GDPR'ı):
 ## 4. Bilgileri neden kullanıyoruz
 
 - Çocuğunuzun masal metnini, resimlerini, sayfa animasyonlarını, seslendirmesini,
-  arka plan müziğini ve istediğinizde yazdırılabilir PDF dosyasını oluşturmak için
+  arka plan müziğini ve istediğinizde yazdırılabilir PDF dosyasını oluşturmak için. PDF dosyaları uygulamanın bu sürümünde yok.
 - Masal kitaplığını, Masal Radyosu'nu, okuma ilerlemesini, favorileri ve okuma serisini çalıştırmak için
 - Bir taslağın ya da kitabın hazır olduğunu size bildirmek için (push bildirimi ve uygulama içi bildirim geçmişi)
 - Kitaplığa gönderdiğiniz kitapları inceledikten sonra yayımlamak ve
@@ -306,7 +305,7 @@ süreler sonunda otomatik olarak silinir:
   cevaplarınız ve değişiklik istekleriniz silinir; kitabınız ve resimleri kalır.
 - Hesap bilgileri, çocuk profilleri, masallar, resimler, seslendirmeler ve
   animasyonlar: siz bunları ya da hesabınızı silene kadar.
-- Yazdırılabilir PDF dosyaları: isteğiniz üzerine oluşturulan PDF dosyası,
+- Yazdırılabilir PDF dosyaları: PDF dosyaları uygulamanın bu sürümünde yok. Sonraki bir sürümde eklenirse: isteğiniz üzerine oluşturulan PDF dosyası,
   oluşturulmasından ya da son indirilmesinden 30 gün sonra dosya depolamamızdan
   otomatik olarak silinir; kitabınız durduğu sürece uygulamadan istediğiniz
   zaman yeniden oluşturabilirsiniz. PDF istek kaydı kitabınızla ya da
@@ -373,8 +372,15 @@ süreler sonunda otomatik olarak silinir:
   başlığı, metni, düzenleme sürümleri, kahraman adı ve kahraman çizimi
   kitaplığınızdan kaldırılır ve kitap krediniz iade edilmez. Cevaplarınız
   yukarıdaki 90 gün kuralına göre silinir.
-- Göndermediğiniz bir sipariş formu: uygulama siparişi vermeden önce
-  cevaplarınızı cihazınıza ya da sunucularımıza kaydetmez.
+- Göndermediğiniz bir sipariş formu: formu doldururken uygulama cevaplarınızı
+  ve sipariş sohbetini yalnız cihazınızda, şifreli depoda tutar; böylece
+  uygulama örneğin ödeme sırasında kapanırsa kaybolmazlar. Bu kopya siparişi
+  vermeden önce sunucularımıza gönderilmez. 24 saat sonra, siparişi
+  verdiğinizde, çıkış yaptığınızda ya da hesabınızı sildiğinizde silinir.
+  Sipariş ettiğiniz bir kitabı iptal ederseniz o kitap için yaptığınız
+  seçimler, aynı seçimlerle yeniden başlayabilmeniz için aynı şifreli depoda en
+  çok 14 gün kalır; kitap hazır olduğunda, çıkış yaptığınızda ya da hesabınızı
+  sildiğinizde daha önce silinir.
 - Cihazdaki okuma sayaçları (son 400 okuma gününe kadar okuduğunuz tarihler
   ve her masalda ulaşılan en yüksek sayfa): yalnızca cihazınızda saklanır ve
   hiçbir zaman sunucularımıza gönderilmez. Oturumu kapattığınızda ya da
@@ -421,7 +427,7 @@ silebilirsiniz (Profil → Hesabımı sil). Hesabınızı silmek Apple ya da Goo
 üzerinden satın alınmış bir aboneliği iptal etmez; aboneliği mağaza hesabı
 ayarlarınızdan iptal edin. Verilerinizin bir kopyası, yazdığınız metnin erken
 silinmesi ya da başka herhangi bir talep için hesabınızdaki e-posta adresinden
-info@hicatcher.co adresine e-posta gönderin. Ayrıca veri koruma otoritenize ya
+privacy@mamonta.com adresine e-posta gönderin. Ayrıca veri koruma otoritenize ya
 da ABD'de eyaletinizin başsavcısına şikâyette bulunabilirsiniz.
 
 ## 9. Çocukların bilgileri
@@ -430,6 +436,23 @@ Hesap sahibi yetişkin bir ebeveyn ya da yasal vasi olmalıdır. Hesapların bir
 Masal Radyosu ve Kitaplarım sizin cihazınızda bir çocuk tarafından
 kullanılabilir. Bu bölüm, çocukların bilgilerine ilişkin bildirimimizdir.
 İşletmeci Mamonta Dış Ticaret A.Ş.'dir; adresi ve e-postası madde 13'tedir.
+
+Ebeveyn onayı: bir çocuk profili ancak ebeveyn kontrolü geçildikten ve o
+profil için açık onayınız alındıktan sonra eklenir. Onayınızı, onay metninin
+sürümü ve zamanıyla birlikte saklarız; her çocuk profili için de hangi onaya
+dayanarak açıldığını gösteren bir kayıt tutarız. Onayınızı geri alırsanız yeni
+çocuk profili eklenemez; var olan profiller siz silene kadar kalır.
+
+Yaş sinyali: cihazınız destekliyorsa ve yaş aralığı paylaşımına izin verilmişse
+uygulama cihazınızın yaş sinyalini (Apple'ın yaş aralığı paylaşımı ya da Google
+Play yaş sinyalleri) okur. Sinyal hesabın 18 yaşından küçük birine ait olduğunu
+bildirirse satın alma ve hesap işlemleri ebeveyne yönlendirilir. Bu sinyal
+yalnızca cihazda okunur; sunucumuza gönderilmez ve saklanmaz. Sinyal yoksa
+ebeveyn kontrolü her zamanki gibi çalışır.
+
+Çocuk güvenliğine ilişkin kurallarımız (çocuk istismarı içeriğine karşı
+tutumumuz ve bildirim yükümlülüklerimiz) uygulamadaki Çocuk Güvenliği
+Politikası'ndadır.
 
 Bir çocuk hakkında ne topladığımız ve nasıl:
 
@@ -468,12 +491,12 @@ bu bilgilerin daha fazla toplanmasını ya da kullanılmasını durdurma
 hakkınız vardır. Uygulamada bir çocuk profilini düzenleyebilir ya da
 silebilir ve hesabınızı silebilirsiniz (madde 8). Bir kopya, silme ya da
 toplamanın durdurulması için hesabınızdaki e-posta adresinden
-info@hicatcher.co adresine e-posta gönderin. Uygulama kullanılırken bu kayıtları durduran bir ayar yoktur:
+privacy@mamonta.com adresine e-posta gönderin. Uygulama kullanılırken bu kayıtları durduran bir ayar yoktur:
 hesabı silmek hepsini durdurur, bir çocuk profilini silmek o profile bağlı
 olanları durdurur. Her adımın neleri sildiğini size söyleriz.
 
 Bir çocuğun ebeveyni olmadan bize bilgi verdiğini düşünüyorsanız
-info@hicatcher.co adresine e-posta gönderin, bu bilgileri sileriz.
+privacy@mamonta.com adresine e-posta gönderin, bu bilgileri sileriz.
 
 ## 10. Yapay zeka ile üretilen içerik
 
@@ -502,6 +525,5 @@ sayfanın en üstündedir.
 ## 13. İletişim
 
 Mamonta Dış Ticaret A.Ş.
-Akyapı No:23 D:49, İkitelli OSB Mah., Bedrettin Dalan Bulvarı, Başakşehir,
-İstanbul 34490, Türkiye
-E-posta: info@hicatcher.co
+Akyapı D:49, No:23, İkitelli OSB Mahallesi, Bedrettin Dalan Bulvarı, 34490 Başakşehir / İstanbul, Türkiye
+E-posta: privacy@mamonta.com

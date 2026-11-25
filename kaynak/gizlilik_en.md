@@ -1,13 +1,12 @@
 # Privacy Policy
 
-Version 1.0 — Last updated 2026-11-21
+Version 1.0 — Last updated 2026-11-25
 
 ## 1. Who we are and what this policy covers
 
 Unmelt (the "app") is operated by Mamonta Dış Ticaret A.Ş. ("we", "us"), a
-company registered in Türkiye. Address: Akyapı No:23 D:49, İkitelli OSB Mah.,
-Bedrettin Dalan Bulvarı, Başakşehir, Istanbul 34490, Türkiye. Email:
-info@hicatcher.co. We are responsible for the personal information described
+company registered in Türkiye. Address: Akyapi D:49, No:23, Ikitelli OSB Mahallesi, Bedrettin Dalan Bulvari, 34490 Basaksehir, Istanbul, Türkiye. Email:
+privacy@mamonta.com. We are responsible for the personal information described
 in this policy.
 
 Unmelt is an app for parents and legal guardians. It offers a library of
@@ -40,7 +39,8 @@ what your rights are.
 - Personal books you order: your answers to the order questions about your
   child's situation (see section 2.1), the change requests you send about a
   draft, and the book made from them (its title, text, hero name and drawing,
-  pictures, animations, narration, music and PDF files). If a book's text or
+  pictures, animations, narration, music and, in versions of the app that
+  offer them, PDF files). If a book's text or
   hero name is edited, earlier versions are kept (see section 7).
 - Library use: which library stories you opened in each free or subscription
   period, the page you last reached, stories you marked as favourites, your
@@ -190,7 +190,7 @@ example the Turkish data protection law, KVKK, and the EU or UK GDPR):
 ## 4. Why we use information
 
 - To create your child's story text, pictures, page animations, narration,
-  background music and, when you ask for one, a print-ready PDF file
+  background music and, when you ask for one, a print-ready PDF file. PDF files are not available in this version of the app.
 - To run the story library, Story Radio, reading progress, favourites and reading streak
 - To tell you that a draft or a book is ready (push notification and in-app notification history)
 - To publish books you send to the library, after review, and to share books
@@ -298,7 +298,7 @@ of data are deleted automatically after set periods:
   requests are deleted; your book and its pictures stay.
 - Account information, child profiles, stories, pictures, narration and
   animations: until you delete them or delete your account.
-- Print-ready PDF files: a PDF file generated on your request is deleted
+- Print-ready PDF files: PDF files are not available in this version of the app. If we add them in a later version: a PDF file generated on your request is deleted
   automatically from our file storage 30 days after it is created or last
   downloaded; you can generate it again in the app whenever you want while your
   book exists. The PDF request record is deleted with your book or your
@@ -365,8 +365,15 @@ of data are deleted automatically after set periods:
   title, text, edit history, hero name and hero drawing are removed from your
   library, and your book credit is not returned. Your answers are deleted under
   the 90-day rule above.
-- An order form you have not sent: the app does not save your answers on your
-  device or on our servers before you place the order.
+- An order form you have not sent: while you fill it in, the app keeps your
+  answers and the order chat only on your device, in its encrypted storage, so
+  they are not lost if the app closes, for example during payment. This copy
+  is not sent to our servers before you place the order. It is deleted after
+  24 hours, when you place the order, when you sign out or when you delete your
+  account. If you cancel a book you ordered, the choices you made for it stay
+  in the same encrypted storage for up to 14 days so you can start again with
+  the same choices; they are deleted earlier when the book is ready, when you
+  sign out or when you delete your account.
 - Reading counters on your device (the dates you read, for up to the last
   400 reading days, and the highest page reached in each story): kept only on
   your device and never sent to our servers. They are deleted when you sign
@@ -414,7 +421,7 @@ In the app you can edit or delete child profiles and delete your account
 (Profile → Delete my account). Deleting your account does not cancel a
 subscription bought through Apple or Google; cancel it in your store account
 settings. For a copy of your data, early deletion of the text you wrote, or
-any other request, email info@hicatcher.co from the email address on your
+any other request, email privacy@mamonta.com from the email address on your
 account. You can also complain to your data protection authority or, in the
 US, your state attorney general.
 
@@ -424,6 +431,23 @@ The account holder must be an adult parent or legal guardian. Accounts are meant
 reader, Story Radio and My Books may be used by a child on your device. This
 section is our notice about children's information. The operator is Mamonta
 Dış Ticaret A.Ş.; its address and email are in section 13.
+
+Parental consent: a child profile can only be added after the parental
+check is passed and you give your explicit consent for that profile. We keep
+your consent together with the version of the consent text and the time it
+was given, and for each child profile we keep a record of the consent it was
+created under. If you withdraw your consent, no new child profile can be
+added; existing profiles stay until you delete them.
+
+Age signal: if your device supports it and age range sharing is allowed, the
+app reads your device's age signal (Apple's age range sharing or Google Play
+age signals). If the signal reports that the account belongs to someone under
+18, purchases and account actions are routed to a parent. The signal is only
+read on the device; it is not sent to our servers or stored. If there is no
+signal, the parental check works as usual.
+
+Our child safety rules (our stance against child sexual abuse material and
+our reporting obligations) are in the Child Safety Policy in the app.
 
 What we collect about a child, and how:
 
@@ -460,14 +484,14 @@ each type is kept is in section 7.
 As a parent you can review the information we hold about your child, have it
 deleted, and refuse further collection or use of it. In the app you can edit
 or delete a child profile and delete your account (section 8). For a copy,
-for deletion or to stop further collection, email info@hicatcher.co from the
+for deletion or to stop further collection, email privacy@mamonta.com from the
 email address on your account. The app has no setting to stop these records
 while it is used: deleting the account stops all of them, and deleting a
 child profile stops those linked to that profile. We will tell you what each
 step removes.
 
 If you believe a child has given us information without a parent, email
-info@hicatcher.co and we will delete it.
+privacy@mamonta.com and we will delete it.
 
 ## 10. AI-generated content
 
@@ -495,6 +519,5 @@ and date are at the top of this page.
 ## 13. Contact
 
 Mamonta Dış Ticaret A.Ş.
-Akyapı No:23 D:49, İkitelli OSB Mah., Bedrettin Dalan Bulvarı, Başakşehir,
-Istanbul 34490, Türkiye
-Email: info@hicatcher.co
+Akyapi D:49, No:23, Ikitelli OSB Mahallesi, Bedrettin Dalan Bulvari, 34490 Basaksehir, Istanbul, Türkiye
+Email: privacy@mamonta.com

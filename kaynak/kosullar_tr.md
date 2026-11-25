@@ -1,12 +1,11 @@
 # Kullanım Koşulları
 
-Sürüm 0.3 — Son güncelleme 2026-11-21
+Sürüm 0.3 — Son güncelleme 2026-11-25
 
 ## 1. Bu koşullar hakkında
 
 Bu Koşullar, Unmelt uygulaması ("uygulama") için sizinle Mamonta Dış Ticaret
-A.Ş. ("biz"), Akyapı No:23 D:49, İkitelli OSB Mah., Bedrettin Dalan Bulvarı,
-Başakşehir, İstanbul 34490, Türkiye (info@hicatcher.co) arasında yapılan bir
+A.Ş. ("biz"), Akyapı D:49, No:23, İkitelli OSB Mahallesi, Bedrettin Dalan Bulvarı, 34490 Başakşehir / İstanbul, Türkiye (privacy@mamonta.com) arasında yapılan bir
 sözleşmedir.
 
 Hesap oluşturarak ya da uygulamayı kullanarak bu Koşulları ve Gizlilik
@@ -44,7 +43,7 @@ doktora, psikoloğa ya da başka bir yetkin uzmana başvurun. Bir çocuk tehlike
   izleyebilir ya da dinleyebilir. Çocuklar hesap oluşturamaz.
 - Doğru bilgi verin ve giriş bilgilerinizi güvende tutun. Hesabınızdaki
   etkinlikten siz sorumlusunuz. Hesabınızın kötüye kullanıldığını
-  düşünüyorsanız info@hicatcher.co adresinden bize bildirin.
+  düşünüyorsanız privacy@mamonta.com adresinden bize bildirin.
 - Uygulamayı hesap açmadan misafir oturumunda deneyebilirsiniz. Misafir
   oturumlarında abonelik satın alınamaz ve kişiye özel kitap sipariş edilemez.
 
@@ -52,8 +51,8 @@ doktora, psikoloğa ya da başka bir yetkin uzmana başvurun. Bir çocuk tehlike
 
 - Abonelik olmadan kayan 7 günlük dönemde sınırlı sayıda ücretsiz kitaplık
   masalını tam okuyabilir (kapak ve ilk sayfa ön izlemesi her zaman açıktır),
-  giriş yapmış bir hesapla kayan 24 saatlik dönemde Masal Radyosu'nu 15
-  dakikaya kadar ücretsiz dinleyebilir ve misafir oturumunda tek seferlik bir
+  kayan 24 saatlik dönemde Masal Radyosu'nu 15 dakikaya kadar ücretsiz
+  dinleyebilir (misafir oturumunda da) ve misafir oturumunda tek seferlik bir
   örnek masal deneyebilirsiniz. Uygulama kalan ücretsiz hakları gösterir.
 - Abonelik daha fazla kitaplık masalı ve kişiye özel kitap sipariş etmek için
   kitap kredisi sağlar. Satın almadan önce uygulama her planın neleri
@@ -138,7 +137,7 @@ Politikası).
 
 Oluşturduğunuz masalları saklayabilir, okuyabilir, yazdırabilir, uygulamanın
 sunduğu yerde indirebilir ve ticari olmayan kullanım için aileniz ve arkadaşlarınızla, uygulamadaki
-paylaşım bağlantısı dahil (madde 8.2), özel olarak paylaşabilirsiniz.
+paylaşım bağlantısı dahil (madde 8.2), özel olarak paylaşabilirsiniz. PDF dosyaları uygulamanın bu sürümünde yok.
 
 Uygulamadaki masallar, resimler ve seslendirme üretken yapay zeka ile
 oluşturulur. Yapay zeka ile üretilen içerik hatalar, tuhaf ayrıntılar ya da
@@ -259,6 +258,5 @@ uygulayabilir.
 ## 13. İletişim
 
 Mamonta Dış Ticaret A.Ş.
-Akyapı No:23 D:49, İkitelli OSB Mah., Bedrettin Dalan Bulvarı, Başakşehir,
-İstanbul 34490, Türkiye
-E-posta: info@hicatcher.co
+Akyapı D:49, No:23, İkitelli OSB Mahallesi, Bedrettin Dalan Bulvarı, 34490 Başakşehir / İstanbul, Türkiye
+E-posta: privacy@mamonta.com

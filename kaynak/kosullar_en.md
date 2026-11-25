@@ -1,12 +1,11 @@
 # Terms of Use
 
-Version 0.3 — Last updated 2026-11-21
+Version 0.3 — Last updated 2026-11-25
 
 ## 1. About these terms
 
 These Terms are an agreement between you and Mamonta Dış Ticaret A.Ş. ("we",
-"us"), Akyapı No:23 D:49, İkitelli OSB Mah., Bedrettin Dalan Bulvarı,
-Başakşehir, Istanbul 34490, Türkiye (info@hicatcher.co), for the Unmelt app
+"us"), Akyapi D:49, No:23, Ikitelli OSB Mahallesi, Bedrettin Dalan Bulvari, 34490 Basaksehir, Istanbul, Türkiye (privacy@mamonta.com), for the Unmelt app
 (the "app").
 
 By creating an account or using the app you agree to these Terms and to our
@@ -42,7 +41,7 @@ psychologist or other qualified professional. If a child is in danger, call
   or listen to stories with you or under your supervision on your device.
   Children must not create accounts.
 - Give accurate information and keep your sign-in details secure. You are
-  responsible for activity on your account. Tell us at info@hicatcher.co if
+  responsible for activity on your account. Tell us at privacy@mamonta.com if
   you think your account has been misused.
 - You can try the app in a guest session without an account. Guest sessions
   cannot buy subscriptions or order personal books.
@@ -52,8 +51,8 @@ psychologist or other qualified professional. If a child is in danger, call
 - Without a subscription you can read a limited number of free library
   stories in full in each rolling 7-day period (the cover and first-page
   preview stay open), listen to Story Radio for up to 15 minutes in each
-  rolling 24-hour period when signed in, and try a one-time sample story in a
-  guest session. The app shows what is included.
+  rolling 24-hour period (also in a guest session), and try a one-time sample
+  story in a guest session. The app shows what is included.
 - A subscription gives more library stories and book credits for ordering
   personal books. Before you buy, the app shows what each plan includes (for
   example, how many books and library stories per month or per year, and the
@@ -132,7 +131,7 @@ is deleted within 90 days at the latest (see the Privacy Policy).
 
 You may keep, read and print the stories you create, download them where the
 app offers it, and share them privately with family and friends for non-commercial use, including with a
-share link from the app (section 8.2).
+share link from the app (section 8.2). PDF files are not available in this version of the app.
 
 The stories, pictures and narration in the app are created with generative AI.
 AI-generated content can contain mistakes, odd details or wording that does
@@ -242,6 +241,5 @@ them against you.
 ## 13. Contact
 
 Mamonta Dış Ticaret A.Ş.
-Akyapı No:23 D:49, İkitelli OSB Mah., Bedrettin Dalan Bulvarı, Başakşehir,
-Istanbul 34490, Türkiye
-Email: info@hicatcher.co
+Akyapi D:49, No:23, Ikitelli OSB Mahallesi, Bedrettin Dalan Bulvari, 34490 Basaksehir, Istanbul, Türkiye
+Email: privacy@mamonta.com
